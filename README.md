@@ -69,7 +69,7 @@ Documentation on how they make a regular old Plumbus. Everybody has one!
   </tr>
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/3o7TKIP6YbgUtHOzjq/giphy.gif" width="100"><br>
+      <img src="https://media.giphy.com/media/xUOxeZn47mrdabqDNC/giphy.gif" width="100"><br>
       <b>Morty Smith</b><br>
       "Ah geez, Dad. Your code is, um, definitely something..."
     </td>
@@ -110,7 +110,7 @@ gitGraph:
 ## Jerry's Development Philosophy 💭
 
 <kbd>
-  <img src="https://media.giphy.com/media/eNweOH3UEi33xpi1w8/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/dZQR7P1lxgi4mUmsjY/giphy.gif" width="400">
   <br>
   "Sometimes science is more art than science. A lot of people don't get that."
 </kbd>
