@@ -71,12 +71,12 @@ Documentation on how they make a regular old Plumbus. Everybody has one!
     <td align="center">
       <img src="https://media.giphy.com/media/xUOxeZn47mrdabqDNC/giphy.gif" width="100"><br>
       <b>Morty Smith</b><br>
-      "Ah geez, Dad. Your code is, um, definitely something..."
+      "Ah geez. Your code is, um, definitely something..."
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/l1KVboXQeiaX7FHgI/giphy.gif" width="100"><br>
       <b>Summer Smith</b><br>
-      "Dad, nobody is going to star your repository."
+      "Nobody is going to star your repository."
     </td>
   </tr>
 </table>
