@@ -110,7 +110,7 @@ gitGraph:
 ## Jerry's Development Philosophy 💭
 
 <kbd>
-  <img src="https://media.giphy.com/media/dZQR7P1lxgi4mUmsjY/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/dZQR7P1lxgi4mUmsjY/giphy.gif" width="200">
   <br>
   "Sometimes science is more art than science. A lot of people don't get that."
 </kbd>
@@ -132,7 +132,7 @@ The best way to reach me is to scream into the void... or try these:
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26DMYEYhxHcqYEkCY/giphy.gif" width="200">
+  <img src="[https://media.giphy.com/media/3oEduL65EKrWLQxbgc/giphy.gif" width="200">
   
   *"Grass... tastes bad!"*
   
