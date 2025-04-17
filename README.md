@@ -58,27 +58,27 @@ Sometimes with guitar accompaniment.
 <table>
   <tr>
     <td align="center">
-      <img src="./assets/leslie_claret.gif" width="100"><br>
+      <img src="https://media.giphy.com/media/SWV4S6i79pygM/giphy.gif" width="100"><br>
       <b>Leslie Claret</b><br>
       "His code has a cool head, but I'd like to see more of a pick-up in his documentation."
     </td>
     <td align="center">
-      <img src="./assets/rick_sanchez.gif" width="100"><br>
+      <img src="https://media.giphy.com/media/11Tsyjflf2xq2A/giphy.gif" width="100"><br>
       <b>Rick Sanchez</b><br>
-      "Of all the developers in the multiverse, your code is... *burp*... the least likely to cause a dimensional collapse."
-    </td>
+    "Of all the developers in the multiverse, your code is... *burp*... the least likely to cause a dimensional collapse."
+  </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./assets/tom_tavner.gif" width="100"><br>
+      <img src="https://media.giphy.com/media/mpxQs0MCqWJKo/giphy.gif" width="100"><br>
       <b>Tom Tavner</b><br>
-      "Satisfactory performance under difficult circumstances. The job gets done."
-    </td>
+    "Satisfactory performance under difficult circumstances. The job gets done."
+  </td>
     <td align="center">
-      <img src="./assets/morty_smith.gif" width="100"><br>
+      <img src="https://media.giphy.com/media/EE8AyDbOjlfOw/giphy.gif" width="100"><br>
       <b>Morty Smith</b><br>
-      "Ah geez, I don't really understand what your code does, but, um, it seems to work?"
-    </td>
+    "Ah geez, I don't really understand what your code does, but, um, it seems to work?"
+  </td>
   </tr>
 </table>
 
