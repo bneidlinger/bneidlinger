@@ -1,6 +1,6 @@
 # bneidlinger
 
-> "What do you want?"
+> "Hey."
 
 ## About Me 🔧
 
@@ -108,14 +108,17 @@ gitGraph:
 
 ## The Lakeman Status Monitor 📉
 
-<div align="center">
+### Physical Condition: 65%
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░
 
-![Status](https://progress-bar.dev/65/?title=Physical%20Condition&width=300&color=green)
-![Status](https://progress-bar.dev/45/?title=Mental%20Stability&width=300&color=yellow)
-![Status](https://progress-bar.dev/98/?title=Engineering%20Competence&width=300&color=blue)
-![Status](https://progress-bar.dev/100/?title=Commitment%20to%20the%20Job&width=300&color=red)
+### Mental Stability: 45% 
+▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░
 
-</div>
+### Engineering Competence: 98%
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░
+
+### Commitment to the Job: 100%
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 
 ## Contact Information 📫
 
