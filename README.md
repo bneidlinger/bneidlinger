@@ -1,6 +1,6 @@
 # bneidlinger
 
-> "I'm a mid-level developer. For a company. That makes software."
+> "What do you want?"
 
 ## About Me 🔧
 
@@ -135,7 +135,7 @@ gitGraph:
 ---
 
 <div align="center">
-  <img src="./assets/john_lakeman_pretty_good.gif" width="200">
+  <img src="https://media.giphy.com/media/l3q30gzDHvl5ASIaQ/giphy.gif" width="200">
   
   *"Pretty good."*
   
