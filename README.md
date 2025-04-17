@@ -1,146 +1,149 @@
-# Hello there! 👋
+# bneidlinger
 
-<img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="300">
+> "I'm a mid-level developer. For a company. That makes software."
 
-> "I love my GitHub contributions more than I love myself!"
+## About Me 🔧
 
-## About Me 🛸
+Just an industrial-grade software developer trying to navigate the complex world of... code. Some days involve writing functional code with AI. Other days involve being pushed off metaphorical buildings in Luxembourg. It's all part of the structural dynamics of flow.
 
-I'm just your average developer trying to find my place in this infinite universe of code. You know, not all of us can be Ricks, but someone has to be the Jerry! And you know what? That's perfectly fine!
+- 🏗️ Currently working on: Donnely nut spacing and cracked system rim-riding grip configuration
+- 🛠️ Specializing in: Double-reciprocating dingle arm development and implementation
+- 📝 Documentation: When asked to present my solutions, sometimes I just sing about them
+- 🎸 My debugging sessions are mostly in E minor. Very specific lyrics.
+- 🌍 Based in: "Here. Sometimes there. Depends on the assignment."
+- 🧠 Mental state: "Pretty good."
 
-- 🔭 Currently working on my latest app: "Hungry for Apples?" (It's not just a knockoff of "Got Milk?")
-- 🌱 Learning how to survive a Cronenberg apocalypse... I mean, full-stack development
-- 👨‍💼 Former employee at the month at Simplistic Algorithm Solutions
-- 🏆 My greatest achievement? Surviving multiple interdimensional adventures!
-- 🎯 Life goal: To have my code reviewed without someone saying "Ah, geez..."
-
-## My Tech Arsenal ⚙️
+## Technical Expertise 📊
 
 <div align="center">
 
-| Things I Think I Know | Things I Definitely Don't Know | Things I Pretend To Know |
+| Things I Know | Things I'm Learning | Things I've Done |
 | :---: | :---: | :---: |
-| HTML | Quantum Computing | Everything Rick Talks About |
-| CSS | AI/ML | Portal Gun Physics |
-| JavaScript (kinda) | Blockchain | How GitHub Actually Works |
-| Making Toast | Dimensional Mathematics | What APIs Do |
+| Software Development | Brazilian Jiu-Jitsu | Retrograde System Testing |
+| Structural Engineering | Mandarin | Coolant-line Code Optimization |
+| Folk Music Composition | Classified Protocols | Centrifugal Force Error Handling |
+| Parkour (unwillingly) | Self-Debugging Techniques | Reciprocating Dingle Arm Deployment |
 
 </div>
 
-## My GitHub Stats 📊
+## GitHub Stats 📈
 
 <details>
-<summary>Click to unfold my probably disappointing stats</summary>
+<summary>View my completely normal development statistics</summary>
 <br>
 
-![Brando's GitHub stats](https://github-readme-stats.vercel.app/api?username=bneidlinger&show_icons=true&theme=radical)
+![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bneidlinger&show_icons=true&theme=dark)
 
-*Note: If these stats look impressive, there's a high chance an alternate dimension Jerry hacked my account.*
+*Note: Any irregularities in commit patterns are due to international development conferences in Luxembourg, Paris, and Milwaukee.*
 
 </details>
 
-## Project Showcase 🏆
+## Current Projects 🏗️
 
-### 🍎 Hungry For Apples?
-A revolutionary marketing campaign that is NOT just a ripoff of "Got Milk?" 
-Built with pure determination and a complete lack of originality.
+### 🔌 Donnely Nut Spacing System
+A revolutionary approach to grip configuration and software architecture.
+*"It's a complicated case... a lot of ins, a lot of outs, lot of what-have-yous."*
 
-### 🎮 Roy: A Life Well Lived
-A simulation of going from a carpet store to... back to the carpet store.
-*"He's taking Roy off the grid! He doesn't have a social security number!"*
+### 📊 Reciprocating Dingle Arm Framework
+Comprehensive documentation for maintenance and troubleshooting procedures.
+*"You really need to understand the structural dynamics of flow."*
 
-### 🧠 Plumbus Manufacturing Guide
-Documentation on how they make a regular old Plumbus. Everybody has one!
+### 🎵 Code Audit Logs (in E minor)
+Extremely detailed logging and debugging system.
+Sometimes with guitar accompaniment.
+*"Very specific. Somewhat repetitive."*
 
-## Testimonials 💬
+## Performance Reviews 📋
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/l41JU9pUyosHzWyuQ/giphy.gif" width="100"><br>
-      <b>Rick Sanchez</b><br>
-      "Of all the Jerrys in the multiverse, your code is... *burp*... the least disappointing."
+      <img src="./assets/leslie_claret.gif" width="100"><br>
+      <b>Leslie Claret</b><br>
+      "His code has a cool head, but I'd like to see more of a pick-up in his documentation."
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/5Q9xC9cZdFiOQ/giphy.gif" width="100"><br>
-      <b>Beth Smith</b><br>
-      "I'm genuinely surprised this repository has stars."
+      <img src="./assets/rick_sanchez.gif" width="100"><br>
+      <b>Rick Sanchez</b><br>
+      "Of all the developers in the multiverse, your code is... *burp*... the least likely to cause a dimensional collapse."
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/xUOxeZn47mrdabqDNC/giphy.gif" width="100"><br>
-      <b>Morty Smith</b><br>
-      "Ah geez. Your code is, um, definitely something..."
+      <img src="./assets/tom_tavner.gif" width="100"><br>
+      <b>Tom Tavner</b><br>
+      "Satisfactory performance under difficult circumstances. The job gets done."
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/l1KVboXQeiaX7FHgI/giphy.gif" width="100"><br>
-      <b>Summer Smith</b><br>
-      "Nobody is going to star your repository."
+      <img src="./assets/morty_smith.gif" width="100"><br>
+      <b>Morty Smith</b><br>
+      "Ah geez, I don't really understand what your code does, but, um, it seems to work?"
     </td>
   </tr>
 </table>
 
-## My Interdimensional Contributions 🌌
+## Development Philosophy 💡
+
+<kbd>
+  <br>
+  "Sometimes engineering is more art than science. A lot of people don't get that."
+</kbd>
+
+## Project Contribution History 🗓️
 
 ```mermaid
 gitGraph:
-    commit id: "Created account"
-    commit id: "First commit - broke everything"
-    branch "feature/hungry-for-apples"
-    checkout "feature/hungry-for-apples"
-    commit id: "Added marketing slogan"
-    commit id: "Fixed typos"
-    commit id: "Realized it's just 'Got Milk?'"
+    commit id: "Initial commit"
+    commit id: "Add standard documentation"
+    branch "feature/piping-optimization"
+    checkout "feature/piping-optimization"
+    commit id: "Implement dingle arm specs"
+    commit id: "Debug cooling system issues"
+    commit id: "Fix unexpected problems in Luxembourg"
     checkout main
-    merge "feature/hungry-for-apples"
-    commit id: "Survived code review somehow"
+    merge "feature/piping-optimization"
+    commit id: "Document everything for Leslie"
+    commit id: "Cool man"
 ```
 
-## The Jerry Danger Meter 🔥
+## The Lakeman Status Monitor 📉
 
 <div align="center">
 
-![Jerry's Danger Meter](https://progress-bar.dev/30/?title=Confidence&width=300&color=yellow)
-![Jerry's Danger Meter](https://progress-bar.dev/10/?title=Coding%20Skills&width=300&color=orange)
-![Jerry's Danger Meter](https://progress-bar.dev/99/?title=Getting%20Into%20Trouble&width=300&color=red)
+![Status](https://progress-bar.dev/65/?title=Physical%20Condition&width=300&color=green)
+![Status](https://progress-bar.dev/45/?title=Mental%20Stability&width=300&color=yellow)
+![Status](https://progress-bar.dev/98/?title=Engineering%20Competence&width=300&color=blue)
+![Status](https://progress-bar.dev/100/?title=Commitment%20to%20the%20Job&width=300&color=red)
 
 </div>
 
-## Jerry's Development Philosophy 💭
+## Contact Information 📫
 
-<kbd>
-  <img src="https://media.giphy.com/media/dZQR7P1lxgi4mUmsjY/giphy.gif" width="200">
-  <br>
-  "Sometimes science is more art than science. A lot of people don't get that."
-</kbd>
+- 📞 Phone: Available upon request. May change frequently for piping-related reasons.
+- 📧 Email: Available upon request. Check before sending sensitive information.
+- 🏢 Office: "I work at a... place. With computers."
 
-## How to Reach Me 📫
+## Development Tips 🔧
 
-The best way to reach me is to scream into the void... or try these:
-
-- 📧 Email: brandon.neidlinger@gmail.com
-
-## Jerry Life Pro Tips 💡
-
-- Always keep your interdimensional cable subscription updated
-- Never visit Blips and Chitz without enough money for Roy 2
-- Calibrate your Meseeks Box before making wishes
-- Check if your Morty is actually your Morty and not some other dimension's Morty
-- Don't trust any version of yourself from another dimension
+- Always carry a notebook for structural calculations
+- Learn to talk about code with absolute conviction
+- Develop a strong understanding of double-reciprocating systems
+- If you have to present a technical solution, a song sometimes helps
+- When asked how your project is going, "pretty good" works as an answer 94% of the time
+- Remember: it's cool, man
 
 ---
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/3oEduL65EKrWLQxbgc/giphy.gif" width="200">
+  <img src="./assets/john_lakeman_pretty_good.gif" width="200">
   
-  *"Grass... tastes bad!"*
+  *"Pretty good."*
   
-  ⭐ Don't forget to star this repo if you're as desperate for validation as I am! ⭐
+  ⭐ Star my repositories if you find their structural dynamics of flow appealing ⭐
 </div>
 
 <!-- 
-  Jerry Note to Self: Ask Beth if this README makes me look cool enough.
-  Reminder: Definitely DO NOT mention the time I got fired for the "Hungry for Apples" campaign.
-  TODO: Figure out what GitHub actually does.
+  Note to self: Remember to update Luxembourg trip details.
+  TODO: Figure out how to explain that missing week in Milwaukee.
+  Reminder: Don't mention anything about "the other job" here.
 -->
