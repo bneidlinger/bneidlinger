@@ -8,6 +8,15 @@
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
+<div align="center">
+
+![GitHub last commit](https://img.shields.io/github/last-commit/bneidlinger/tangnet?style=for-the-badge&color=00ff00&labelColor=000000)
+![Uptime](https://img.shields.io/badge/UPTIME-42%20DAYS-00ff00?style=for-the-badge&labelColor=000000)
+![Nodes](https://img.shields.io/badge/ACTIVE%20NODES-4%2F4-00ff00?style=for-the-badge&labelColor=000000)
+![Coffee](https://img.shields.io/badge/COFFEE%20CONSUMED-847%20CUPS-ff6600?style=for-the-badge&labelColor=000000)
+
+</div>
+
 > Building a retro-futuristic mesh of Raspberry Pis, desktop GPUs, and AI agents...  
 > Because Moore's Law is more of a suggestion anyway.
 
@@ -15,6 +24,19 @@
 
 ### Tangnet: Distributed AI Mesh Architecture
 **Infrastructure Topology:**
+
+<details>
+<summary>🟢 LIVE NODE STATUS [CLICK TO EXPAND]</summary>
+
+| Node | Hardware | Status | Load | Temp | Model | Uptime |
+|------|----------|--------|------|------|-------|--------|
+| **Alpha** 🖥️ | RTX 3070 Ti / 64GB | 🟢 ONLINE | █████░░░░░ 52% | 🌡️ 67°C | Llama2-70B | 42d 3h |
+| **Beta** 💻 | RTX 4060 / 32GB | 🟢 ONLINE | ███░░░░░░░ 31% | 🌡️ 54°C | Mixtral-8x7B | 18d 7h |
+| **Gamma** 🥧 | RPi5 16GB / Hailo-8 | 🟢 ONLINE | ████████░░ 78% | 🌡️ 72°C | TinyLlama-1.1B | 9d 14h |
+| **Delta** 🔧 | RPi5 8GB / GPIO | 🟡 MAINTENANCE | ░░░░░░░░░░ 0% | 🌡️ 45°C | - | REBOOT |
+
+</details>
+
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │ Node Alpha:   RTX 3070 Ti | 64GB DDR4 | Primary Inference   │
@@ -46,6 +68,35 @@ investor_profiles = {
     # ... distributed consensus via custom RAFT implementation
 }
 ```
+
+## 🎮 Tangnet Command Center
+
+<details>
+<summary>⚡ QUICK ACCESS TERMINAL [EXPAND]</summary>
+
+```bash
+# Connect to Nodes
+ssh tangnet@alpha    # Primary GPU inference node
+ssh tangnet@beta     # Mobile compute unit
+ssh pi@gamma         # Edge AI processor
+ssh pi@delta         # GPIO automation hub
+
+# Quick AI Queries
+alias asktiny="curl -X POST http://gamma:8000/chat -d '{\"prompt\":\"...\"}''"
+alias ask7b="curl -X POST http://alpha:8000/chat -d '{\"prompt\":\"...\"}''"
+
+# System Monitoring
+watch -n 1 'tangnet-status --all'              # Live node status
+tail -f /var/log/tangnet/mesh.log             # Mesh network logs
+nvidia-smi dmon -s pucvmet -d 1               # GPU monitoring
+
+# Emergency Procedures
+tangnet-shutdown --node=all --graceful        # Controlled shutdown
+tangnet-failover --primary=beta               # Promote Beta to primary
+sudo systemctl restart tangnet-mesh            # Restart mesh service
+```
+
+</details>
 
 ## Core Technologies & Proficiencies
 
