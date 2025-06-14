@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../assets/tangnetintro.gif" width="400" alt="Tangnet Introduction">
+  <img src="assets/tangnetintro.gif" width="400" alt="Tangnet Introduction">
 </div>
 
 ```ascii
@@ -71,7 +71,7 @@ investor_profiles = {
 <tr>
 <td align="center" width="50%">
 
-<img src="../assets/testimonial1.gif" width="200" alt="Hacker typing">
+<img src="assets/testimonial1.gif" width="200" alt="Hacker typing">
 
 **"This man put a Raspberry Pi on a Roomba and called it a data center."**  
 *— Anonymous SRE, probably*
@@ -79,7 +79,7 @@ investor_profiles = {
 </td>
 <td align="center" width="50%">
 
-<img src="../assets/testimonial2.gif" width="200" alt="Mind blown">
+<img src="assets/testimonial2.gif" width="200" alt="Mind blown">
 
 **"He's calculating FLOPS on a toaster. I don't know if I should be impressed or concerned."**  
 *— Senior DevOps Engineer*
@@ -89,7 +89,7 @@ investor_profiles = {
 <tr>
 <td align="center" width="50%">
 
-<img src="../assets/testimonial3.gif" width="200" alt="Homer backing into hedge">
+<img src="assets/testimonial3.gif" width="200" alt="Homer backing into hedge">
 
 **"It's giving Skynet, but with charm and RGB LEDs."**  
 *— My Wife (backing away slowly)*
@@ -97,7 +97,7 @@ investor_profiles = {
 </td>
 <td align="center" width="50%">
 
-<img src="../assets/testimonial4.gif" width="200" alt="Server room chaos">
+<img src="assets/testimonial4.gif" width="200" alt="Server room chaos">
 
 **"The thermal management is... let's call it 'organic'. Fire extinguisher is in the lab."**  
 *— Facilities Manager*
